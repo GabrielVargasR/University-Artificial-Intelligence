@@ -7,3 +7,4 @@ Assignment list
 3. Regression model design and Feature engineering
 4. Classification and Clustering
 5. Natural Language Processing
+6. Emotion AI
